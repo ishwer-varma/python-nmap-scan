@@ -30,7 +30,7 @@ Le rapport indique les **ports ouverts**, les **services détectés** ainsi que 
 1. Lancer le script
 ```bash
 python3 scanner.py <IP ou nom de domaine>
-
+```
 2. Exemple
 
 python3 scanner.py 192.168.5.3
