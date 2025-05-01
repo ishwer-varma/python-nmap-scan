@@ -28,9 +28,11 @@ Le rapport indique les **ports ouverts**, les **services détectés** ainsi que 
 🚀 Utilisation
 
 1. Lancer le script
+```bash
 python3 scanner.py <IP ou nom de domaine>
-2. Exemple
+3. Exemple
+```bash
 python3 scanner.py 192.168.5.3
-3. Fichier de sortie
+4. Fichier de sortie
 Port 80 : http (Apache httpd 2.4.41)
 Port 22 : ssh (OpenSSH 7.9)
