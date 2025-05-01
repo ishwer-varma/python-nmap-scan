@@ -32,8 +32,9 @@ Le rapport indique les **ports ouverts**, les **services détectés** ainsi que 
 python3 scanner.py <IP ou nom de domaine>
 ```
 2. Exemple
-
+``` bash
 python3 scanner.py 192.168.5.3
+```
 
 3. Fichier de sortie
 Port 80 : http (Apache httpd 2.4.41)
